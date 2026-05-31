@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Mobina Gorji, a computer enginearing student and backend developer.<br>I love computers and I love learning new stuff.<br><br>- 🐛 Creating bugs since highschool :)<br>- 🌱 Currently learning Django framework.<br>- 📫 How to reach me: mobiiiiinagy@gmail.com</p>
+<p align="left">I'm Mobina Gorji, a computer engineering student and backend developer.<br>I love computers and I love learning new stuff.<br><br>- 🐛 Creating bugs since highschool :)<br>- 🌱 Currently learning Django framework.<br>- 📫 How to reach me: mobiiiiinagy@gmail.com</p>
 
 ###
 
