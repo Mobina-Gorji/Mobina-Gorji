@@ -50,15 +50,6 @@
   -->
 </div>
 
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=Mobina-Gorji&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/Mobina-Gorji/Mobina-Gorji/stats-output/stats.svg" height="150" alt="stats graph"  />
-</div>
-
-###
-
 <p align="left">"The only truly good comment is the comment you found a way not to write." Robert C. Martin</p>
 
 ###
