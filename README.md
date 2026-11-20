@@ -58,6 +58,14 @@
 ###
 
 <div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mobina-Gorji&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Mobina-Gorji&layout=compact&langs_count=5&hide_values=true&theme=dracula&hide_border=true)](https://github-stats-extended.vercel.app/api/top-langs?username=Mobina-Gorji&layout=compact&langs_count=5&hide_values=true&theme=dracula)
+
+</div>
+
+<div align="center">
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74202D,50:414750,100:25262B&height=100&section=footer" width="100%" />
 
