@@ -1,3 +1,8 @@
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:25262B,50:414750,100:74202D&amp;height=200&amp;section=header&amp;text=Mobina%20Gorji&amp;fontSize=52&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Backend%20Developer%20%7C%20Python%20and%20Django&amp;descAlignY=58&amp;descSize=17" width="100%" />
+
+</div>
 <h1 align="left">Hi there 👋</h1>
 
 ###
@@ -51,3 +56,9 @@
 <p align="left">"The only truly good comment is the comment you found a way not to write." Robert C. Martin</p>
 
 ###
+
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:74202D,50:414750,100:25262B&height=100&section=footer" width="100%" />
+
+</div>
