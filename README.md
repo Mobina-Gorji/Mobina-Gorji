@@ -26,38 +26,31 @@ Languages and Tools:
 <img src="https://skillicons.dev/icons?i=py,django,docker,git,mysql,postgresql,html,css,xd,ps,ai,windows,ubuntu"/>
 </a>
 </br>
+</br>
 </div>
 
 </div>
 <h2>
 Contact Me:
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="25" height="25" />
 </h2>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=py,django,docker,git,mysql,postgresql,html,css,xd,ps,ai,windows,ubuntu"/>
+<a href="mailto:mobiiiiinagy@gmail.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+<a href="https://www.linkedin.com/in/mobina-gorji-70a148312" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+</br>
+</br>
 </br>
 </div>
 
-<h3 align="left">Contact Me:</h3>
-
-###
-
-<div align="left">
-  <a href="mailto:mobiiiiinagy@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mobina-gorji-70a148312" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <!--
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  -->
-</div>
-
-<p align="left">"The only truly good comment is the comment you found a way not to write." Robert C. Martin</p>
-
-###
+> “The only truly good comment is the comment you found a way not to write.”
+>
+> **— Robert C. Martin**
+</br>
+</br>
+</br>
 
 <div align="center">
 
@@ -68,7 +61,5 @@ Contact Me:
 </div>
 
 <div align="center">
-  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74202D,50:414750,100:25262B&height=100&section=footer" width="100%" />
-
 </div>
