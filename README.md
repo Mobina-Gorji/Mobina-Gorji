@@ -4,7 +4,7 @@
 
 </div>
 <h2>
-About Me
+About Me:
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" alt="Slightly Smiling Face" width="25" height="25" />
 </h2>
 <p align="left">
@@ -12,8 +12,20 @@ Hello! I'm Mobina Gorji, a computer engineering student and backend developer.</
 - 🌱 Currently learning Django.</br>
 - ⚙️ Interested in APIs, databases, and backend architecture.</br>
 - ✨ Always learning and improving.</br>
-- 📫 How to reach me: mobiiiiinagy@gmail.com</br>
+- 📫 How to reach me: mobiiiiinagy@gmail.com
 </p>
+</br>
+</br>
+</div>
+
+</div>
+<h2>
+Languages and Tools:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
+</h2>
+[![Skills](https://skills.syvixor.com/api/icons?i=ts,node,expressjs,vue,nuxt,mongodb,prisma)](https://github.com/syvixor/skills-icons)
+</br>
+</br>
 </div>
 
 <p align="left"></p>
