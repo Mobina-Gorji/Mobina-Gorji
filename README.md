@@ -3,13 +3,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:25262B,50:414750,100:74202D&amp;height=200&amp;section=header&amp;text=Mobina%20Gorji&amp;fontSize=52&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Backend%20Developer%20%7C%20Python%20and%20Django&amp;descAlignY=58&amp;descSize=17" width="100%" />
 
 </div>
-<h1 align="left">Hi there 👋</h1>
-
-###
-
-<p align="left">I'm Mobina Gorji, a computer engineering student and backend developer.<br>I love computers and I love learning new stuff.<br><br>- 🐛 Creating bugs since highschool :)<br>- 🌱 Currently learning Django framework.<br>- 📫 How to reach me: mobiiiiinagy@gmail.com</p>
-
-###
+<h2>
+About Me
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" alt="Slightly Smiling Face" width="25" height="25" />
+</h2>
+<p align="left">
+Hello! I'm Mobina Gorji, a computer engineering student and backend developer.</br></br>
+- 🌱 Currently learning Django.</br>
+- ⚙️ Interested in APIs, databases, and backend architecture.</br>
+- ✨ Always learning and improving.</br>
+- 📫 How to reach me: mobiiiiinagy@gmail.com</br>
+</p>
+</div>
 
 <p align="left"></p>
 
